@@ -1,0 +1,8 @@
+[
+  {"id": 1, "name": "Aurora",   "capacity": 4,  "floor": 1, "equipment": ["whiteboard"]},
+  {"id": 2, "name": "Borealis", "capacity": 6,  "floor": 1, "equipment": ["whiteboard", "screen"]},
+  {"id": 3, "name": "Cirrus",   "capacity": 8,  "floor": 2, "equipment": ["projector", "whiteboard"]},
+  {"id": 4, "name": "Delta",    "capacity": 10, "floor": 2, "equipment": ["projector", "video-conference"]},
+  {"id": 5, "name": "Equinox",  "capacity": 12, "floor": 3, "equipment": ["projector", "video-conference", "whiteboard"]},
+  {"id": 6, "name": "Fjord",    "capacity": 20, "floor": 3, "equipment": ["projector", "video-conference", "microphones"]}
+]
